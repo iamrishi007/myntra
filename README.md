@@ -1,1 +1,1 @@
-# myntra
+# myntra_project
