@@ -16,7 +16,7 @@ This is a clone of the Myntra E-commerce website built using the **MERN stack** 
   
 - **Add to Cart**: 
   - Users can add products to their shopping cart for purchase.
-  
+
 ## Tech Stack
 
 - **Frontend**:
@@ -37,6 +37,10 @@ You can view the deployed version of this project here:
 
 [**Myntra E-commerce Website Clone**](https://venerable-lamington-38eaad.netlify.app/)
 
+## Screenshot
+
+![Myntra E-commerce Clone](https://github.com/iamrishi007/myntra/blob/main/client_side/public/Screenshot%202025-01-16%20190112.png)
+
 ## Setup
 
 ### Prerequisites
@@ -53,4 +57,3 @@ Make sure you have the following installed on your machine:
 ```bash
 git clone https://github.com/your-username/myntra-clone.git
 cd myntra-clone
-
