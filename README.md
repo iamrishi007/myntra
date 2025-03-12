@@ -1,6 +1,6 @@
 # Myntra E-commerce Website Clone
 
-This is a clone of the Myntra E-commerce website built using the **MERN stack** (MongoDB, Express, React, Node.js). The project features user authentication, password hashing, private routes, product sorting by price, and the ability to add products to a shopping cart.
+This is a clone of the Myntra E-commerce website built using the **MERN stack** (MongoDB, Express, React, Node.js). The project features user authentication, password hashing, private routes, product sorting by price, and the ability to add products to a shopping cart !
 
 ## Features
 
@@ -9,7 +9,7 @@ This is a clone of the Myntra E-commerce website built using the **MERN stack** 
   - Passwords are securely hashed using **bcryptjs** to ensure privacy.
   
 - **Private Routes**: 
-  - Access to certain routes is restricted to authenticated users only.
+  - Access to certain routes is restricted to authenticated users only !
   
 - **Product Sorting by Price**: 
   - Products can be sorted based on price, allowing users to filter products easily.
